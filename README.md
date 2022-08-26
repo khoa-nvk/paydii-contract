@@ -1,12 +1,14 @@
 ## Paydii.com Introduction 
 
-Paydii.com is a decentralized marketplace platform for digital generation. 
+[Paydii.com](https://paydii.com/) is a decentralized marketplace platform for digital generation. 
 
 You can easily create product and sell it on Paydii for free. All of your data will be saved on Stacks blockchain. 
 
-Paydii.com gets 1% per transaction as a fee for developers to maintain and grow the platform 
+Paydii gets 1% per transaction as a fee for developers to maintain and grow the platform 
 
 ## Paydii.com features 
+
+![](/screenshots/use-cases.png)
 
 - Create product and sell it on Paydii for free
 - Create coupon 
