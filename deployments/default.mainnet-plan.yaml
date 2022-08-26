@@ -1,0 +1,14 @@
+---
+id: 0
+name: main deployment
+network: mainnet
+node: "https://stacks-node-api.stacks.co"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: paydii-beta
+            expected-sender: SPKFWPTF18ZX2HN5XDAP1FRGN40SWWGFFPWMW628
+            path: contracts/paydii.clar
+            cost: 579100
